@@ -1,5 +1,3 @@
-
-
 function User(firstName,lastName,YOB){
     this.firstName = firstName;
     this.lastName = lastName;
