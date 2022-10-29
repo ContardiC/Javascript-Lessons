@@ -10,4 +10,5 @@ function checkUsername(symbol){
 var elUsername= document.getElementById('username');
 elUsername.addEventListener('blur',function(){
     checkUsername('#');
+    console.log('controllo eseguito');
 },false);
